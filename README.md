@@ -150,6 +150,7 @@ An organized list of useful Claude Code resources, each with a rating to help yo
 | [SkillsMP](https://skillsmp.com/) | ⭐⭐⭐ | 25,000+ agent skills marketplace with intelligent filtering |
 | [Skills Directory](https://www.skillsdirectory.com/) | ⭐⭐ | Community-compiled browseable skills list |
 | [Awesome Claude](https://awesomeclaude.ai/) | ⭐⭐ | Visual directory of Claude Code resources |
+| [HOL Plugins](https://hol.org/plugins) | ⭐⭐ | Directory for discovering AI plugins for Claude Code, Codex, and other agent tools |
 | [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | ⭐ | Curated list of plugins, MCP servers, and hooks |
 
 ---
